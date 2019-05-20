@@ -44,7 +44,7 @@ class UploadProducts extends Command
         if (ImportHelper::importToDB($products)) {
             return "Data imported Successfully";
         } else {
-            dd('Something went wrong!');
+            return "Something went wrong!";
         }
 
     }
