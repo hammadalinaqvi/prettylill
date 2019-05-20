@@ -3,7 +3,9 @@
 
 This is a test Laravel application. Laravel `Auth` is implemented for the basic user management CURD. Following features are included;
 
--
+- Bacis Laravel Auth for User management (Login, Register)
+- Upload CSV file or products
+- List Products
 
 ##INSTRUCTIONS
 - Clone the application to your web root
