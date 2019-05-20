@@ -17,7 +17,7 @@ This is a test Laravel application. Laravel `Auth` is implemented for the basic 
 - Now go to **http://127.0.0.1:8000/**
 - Login or Register on the application
 - Once you are logged in, you will be redirected to the uplode page
-- To run the command to upload file, run `php artisan import:products /path/to/file`, this will import the products in DB and will be shown on products page
+- To run the command to upload file, run `php artisan import:products /fullpath/to/file`, this will import the products in DB and will be shown on products page
 - Navigations for products are added in the user menu drop down
 
 ##Useful Commands & Files
